@@ -1,3 +1,7 @@
+# Assignment Layout
+
+Question 1-8 and 10 are found in hw1.ipynb, question 9 is in folder Assignment1_q9
+
 # QUESTION 1
 
 Basic Hello World of digital music synthesis.
