@@ -1,10 +1,10 @@
 # QUESTION 1
 
-Basic Hello World of digit music synthesis
+Basic Hello World of digital music synthesis.
 
 # QUESTION 2
 
-Using the formula for midi note to frequency was able to generate the opening to starwars
+Using the formula for midi note to frequency was able to generate the opening to starwars.
 
 # QUESTION 3
 
@@ -12,7 +12,7 @@ Creating a look-up table, was able to create a basic score language for pitch an
 
 # QUESTION 4
 
-Used scipy signal implementations for sawtooth, square/pulse, and triangle waves. Create noise with math.random to get white noise.
+Use scipy signal implementations for sawtooth, square/pulse, and triangle waves. Create noise with math.random to get white noise.
 
 # QUESTION 5
 
@@ -20,7 +20,7 @@ Going over the previous questions with buffers took using a new oscillator fucnt
 
 # QUESTION 6
 
-Used harmonics with the different types of osciallars to create polyphony, including one of noise. It started to sound weird after 8 with my current set up so stayed with that here, but with maybe not so many tabs open or a better computer I could have more voices going on at once.
+Use harmonics with the different types of osciallars to create polyphony, including one of noise. It started to sound weird after 8 with my current set up so stayed with that here, but with maybe not so many tabs open or a better computer I could have more voices going on at once.
 
 # QUESTION 7
 
